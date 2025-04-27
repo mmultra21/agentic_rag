@@ -1,3 +1,5 @@
+[![GitHub Repo](https://img.shields.io/badge/GitHub-agentic_rag-blue?logo=github)](https://github.com/mmultra21/agentic_rag)
+
 # Project Name
 This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
 
