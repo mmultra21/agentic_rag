@@ -2,7 +2,6 @@
 
 # Agentic RAG Chatbot
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-agentic_rag-blue?logo=github)](https://github.com/mmultra21/agentic_rag)
 
 ## 🌍 Overview
 The **Agentic RAG Chatbot** is a powerful, modular retrieval-augmented generation (RAG) system designed to perform intelligent document retrieval and interactive conversation using large language models (LLMs). It leverages agentic behavior to autonomously guide conversations, enrich responses, and interact with external knowledge bases when necessary.
