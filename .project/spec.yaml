@@ -3,7 +3,7 @@ specMinorVersion: 2
 meta:
     name: agentic_rag
     image: project-agentic_rag
-    description: ""
+    description: Agent AI Agent using localized quantized DeepSeek
     labels: []
     createdOn: "2025-04-20T03:58:48Z"
     defaultBranch: main
